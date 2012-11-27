@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"div",
+				"divFlashMessage"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"input",
+				"inputLength"
+			],
+			[
+				"tags",
+				"tags"
+			],
+			[
+				"sele",
+				"selectedClass"
+			],
+			[
+				"sel",
+				"selectedClass"
+			],
+			[
+				"add",
+				"addRaceSuggests"
+			],
+			[
+				"geoc",
+				"geocoderRequest"
+			],
+			[
+				"forma",
+				"formatted_address"
+			],
+			[
+				"address",
+				"address_components"
+			],
+			[
+				"sho",
+				"showSuggests"
+			],
+			[
+				"first",
+				":first-of-type"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"get_ma",
+				"get_magic_quotes_gpc"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"hi",
+				"highlighted_li"
+			],
+			[
+				"current",
+				"current_page_item"
+			],
+			[
+				"curre",
+				"current_page_item"
+			],
+			[
+				"cur",
+				"current_page_item"
+			],
+			[
+				"script",
+				"SCRIPT	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden	",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"uploa",
+				"SFTP: Upload File"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"brack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"minim	",
+				"View: Toggle Minimap"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/carlo/www/calendariogare/public/app/webroot/js/indexRaceLib/instantMap.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/indexRaceLib/userLocation.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/indexRaceLib/userLocation(old).js",
+		"/home/carlo/www/calendariogare/public/app/View/Layouts/default.ctp",
+		"/home/carlo/www/calendariogare/public/app/webroot/css/style.css",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/indexRaceElements.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/slider/lengthSlider.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/addRaceElements",
+		"/home/carlo/www/calendariogare/public/app/Controller/UsersController.php",
+		"/home/carlo/www/calendariogare/public/app/View/Races/showRaces.ctp",
+		"/home/carlo/www/calendariogare/public/app/View/Pages/home.ctp",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/widgets.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/addRaceEffects.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/addRace.js",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/map.js",
+		"/home/carlo/www/calendariogare/public/lib/Cake/View/JsonView.php",
+		"/home/carlo/www/calendariogare/public/app/View/Races/view.ctp",
+		"/home/carlo/www/dev/dirGallery/DirGallery.php",
+		"/home/carlo/.config/sublime-text-2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/carlo/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+		"/home/carlo/www/calendariogare/public/app/View/Users/add.ctp",
+		"/home/carlo/www/calendariogare/public/app/webroot/js/test.php",
+		"/home/carlo/www/calendariogare/public/app/Model/AppModel.php",
+		"/home/carlo/www/calendariogare/public/app/Model/User.php",
+		"/home/carlo/www/calendariogare/public/app/Controller/AppController.php",
+		"/home/carlo/www/calendariogare/public/app/View/Users/login.ctp",
+		"/home/carlo/www/calendariogare/public/app/View/Users/reset.ctp",
+		"/home/carlo/www/calendariogare/public/app/View/Emails/html/forgot.ctp",
+		"/home/carlo/www/calendariogare/public/app/View/Users/forgot.ctp",
+		"/home/carlo/www/calendariogare/public/app/Config/routes.php",
+		"/home/carlo/www/sftp/style.css",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/js/ajaxify.js",
+		"/home/carlo/www/dev/image_slider/index.html",
+		"/home/carlo/www/carloantinarella/articles/gplus_style_menu.txt",
+		"/home/carlo/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/carlo/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/index.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/contacts-page.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/single.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/all-ajax.sublime-project",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/print.css",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/header.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/js/form-validator.js",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/form-validator.js",
+		"/home/carlo/.config/sublime-text-2/Packages/User/PlainTasks.sublime-settings",
+		"/home/carlo/.config/sublime-text-2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/carlo/.config/sublime-text-2/Packages/PlainTasks/Default (Linux).sublime-keymap",
+		"/home/carlo/www/carloantinarella/wp-content/themes/antinarella/animations.js",
+		"/home/carlo/tasks.TODO",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/page.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/contacts.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/footer.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/functions.php",
+		"/home/carlo/www/carloantinarella/wp-content/themes/all-ajax/ajaxify.js",
+		"/home/carlo/.config/sublime-text-2/Packages/iTodo/Default (Linux).sublime-keymap",
+		"/home/carlo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/carlo/.cache/.fr-WxcN2S/green-fibers/readme.txt",
+		"/home/carlo/www/pisahalfmarathon/include/DB.php",
+		"/home/carlo/www/dev/DirGallery.php",
+		"/home/carlo/www/pisahalfmarathon/style.css",
+		"/home/carlo/www/pisahalfmarathon/include/page.php",
+		"/home/carlo/www/carloantinarella/show_content.js",
+		"/home/carlo/www/carloantinarella/animations.js",
+		"/home/carlo/www/carloantinarella/style.css",
+		"/home/carlo/www/carloantinarella/ajax.php",
+		"/home/carlo/scatoloni.txt",
+		"/home/carlo/www/pisahalfmarathon/phpinfo.php",
+		"/home/carlo/www/pisahalfmarathon/include/SimplePager.php",
+		"/home/carlo/www/pisahalfmarathon/include/news.php",
+		"/home/carlo/www/dev/news_ticker/common.js",
+		"/home/carlo/www/dev/news_ticker/index.html",
+		"/home/carlo/www/dev/news_ticker/style.css",
+		"/home/carlo/www/dev/index.php",
+		"/home/carlo/www/pisahalfmarathon/include/library.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extResults",
+			"$lat",
+			"areas",
+			"map",
+			"Map",
+			"map",
+			"Map",
+			"map",
+			"Elements",
+			"from",
+			"minimum",
+			"required",
+			"*/",
+			"console",
+			"set",
+			"marker",
+			"filename",
+			"fileName",
+			"destination",
+			"data",
+			"get",
+			"forgot",
+			" >",
+			"/>",
+			"var_dump",
+			"page",
+			"page_top",
+			"replace",
+			"var",
+			"\n		",
+			"libri"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 81.0
+	},
+	"output.sftp":
+	{
+		"height": 93.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"public/app/View/Races/add.ctp"
+			],
+			[
+				"a",
+				"public/app/View/Races/add.ctp"
+			],
+			[
+				"addr",
+				"public/app/webroot/js/addRace.js"
+			],
+			[
+				"s",
+				"public/app/webroot/css/style.css"
+			],
+			[
+				"add",
+				"public/app/View/Races/add.ctp"
+			],
+			[
+				"sty",
+				"public/app/webroot/css/style.css"
+			],
+			[
+				"race",
+				"public/app/Model/Race.php"
+			],
+			[
+				"st",
+				"public/app/webroot/css/style.css"
+			],
+			[
+				"users",
+				"public/app/Controller/UsersController.php"
+			],
+			[
+				"j",
+				"public/lib/Cake/View/JsonView.php"
+			],
+			[
+				"todo",
+				"calendariogare.TODO"
+			],
+			[
+				"m",
+				"public/app/webroot/js/map.js"
+			],
+			[
+				"ma",
+				"public/app/webroot/js/map.js"
+			],
+			[
+				"map",
+				"public/app/webroot/js/map.js"
+			],
+			[
+				"hom",
+				"public/app/View/Pages/home.ctp"
+			],
+			[
+				"h",
+				"public/app/View/Pages/home.ctp"
+			],
+			[
+				"style",
+				"public/app/webroot/css/style.css"
+			],
+			[
+				"appcon",
+				"public/app/Controller/AppController.php"
+			],
+			[
+				"appmod",
+				"public/app/Model/AppModel.php"
+			],
+			[
+				"login",
+				"public/app/View/Users/login.ctp"
+			],
+			[
+				"app",
+				"public/app/Controller/AppController.php"
+			],
+			[
+				"user",
+				"public/app/Model/User.php"
+			],
+			[
+				"defau",
+				"public/app/View/Layouts/default.ctp"
+			],
+			[
+				"styl",
+				"public/app/webroot/css/style.css"
+			],
+			[
+				"default",
+				"public/app/View/Layouts/default.ctp"
+			],
+			[
+				"defa",
+				"public/app/View/Layouts/default.ctp"
+			],
+			[
+				"con",
+				"contacts-page.php"
+			],
+			[
+				"pr",
+				"content/profilo.php"
+			],
+			[
+				"port",
+				"content/portfolio.php"
+			],
+			[
+				"css",
+				"style.css"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"news",
+				"news_ticker/index.html"
+			],
+			[
+				"dirg",
+				"DirGallery.php"
+			],
+			[
+				"com",
+				"news_ticker/common.js"
+			],
+			[
+				"pa",
+				"include/page.php"
+			],
+			[
+				"genera",
+				"include/generate_page.php"
+			],
+			[
+				"page.",
+				"include/page.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}
